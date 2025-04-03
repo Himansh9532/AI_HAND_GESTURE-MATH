@@ -1,0 +1,10 @@
+opencv-python
+cvzone
+mediapipe
+numpy
+opencv-python
+cvzone
+mediapipe
+numpy
+streamlit
+
